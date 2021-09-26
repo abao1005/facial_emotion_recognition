@@ -1,5 +1,4 @@
-# facial_emotion_recognition
-Final project of 2020-fall-INTRODUCTION_TO_IMAGE PROCESSING, COMPUTER_VISION_AND_DEEP_LEARNING  
+# 臉部情緒辨識
 「影像處理、電腦視覺及深度學習概論」課程之期末專題。
 
 ## 動機
